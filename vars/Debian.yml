@@ -1,0 +1,47 @@
+---
+cli_os_pkgs :
+  - ack
+  - asciidoc
+  - libboost-all-dev # Don't know if this is the same as boost-static...
+  - colordiff
+  - colorgcc
+  - clang
+  - clang-format
+  - clang-tidy
+  - cmake
+  - clojure
+  - cowsay
+  - cppcheck
+  - dash
+  - fish
+  - hlint
+  - g++
+  - gem
+  - golang
+  - htop
+    # - hub # Not in apt? Or at least, not in apt ot WSL?
+  - iftop
+  - iotop
+  - irssi
+  - lynx
+  - mc
+    # - npm # Also not in WSL Debian?
+    # - ntop
+  - perl
+  - perl6
+  - perlbrew
+  # - perlcritic
+  - perltidy
+  - php-pear
+  - powerline
+  - pv
+  - python
+  - python3
+  - python-yaml
+  - python3-yaml
+  - rpmlint
+  - screen
+  - strace
+  - silversearcher-ag
+  - tmux
+  - zsh
