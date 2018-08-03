@@ -26,19 +26,19 @@ cli_os_pkgs :
   - lynx
   - mc
   - npm
-  - ntop
+  # - ntop
   - perf
   - perl
-  - perl6
-  - perlbrew
-  - perl-criticism
+  # - perl6
+  # - perlbrew
+  # - perl-criticism
   - perltidy
   - php-pear
   - powerline
-  - powerline-tmux
+  - tmux-powerline
   - pv
   - python
-  - python3
+  - python34
   - PyYAML
   - rpmlint
   - screen
