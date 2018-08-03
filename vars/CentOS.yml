@@ -1,0 +1,48 @@
+---
+cli_os_pkgs :
+  - ack
+  - asciidoc
+  - boost-static
+  - colordiff
+  # - colorgcc 
+  - clang
+  # - clang-format
+  # - clang-tidy
+  - cmake
+  - clojure
+  - cowsay
+  - cppcheck
+  # - dash
+  - fish
+  - hlint
+  - devtoolset-7-gcc-c++-7.3.1-5.10.el7.x86_64
+  - gem
+  - golang
+  - htop
+  - hub
+  - iftop
+  - iotop
+  - irssi
+  - lynx
+  - mc
+  - npm
+  - ntop
+  - perf
+  - perl
+  - perl6
+  - perlbrew
+  - perl-criticism
+  - perltidy
+  - php-pear
+  - powerline
+  - powerline-tmux
+  - pv
+  - python
+  - python3
+  - PyYAML
+  - rpmlint
+  - screen
+  - strace
+  - the_silver_searcher
+  - tmux
+  - zsh
