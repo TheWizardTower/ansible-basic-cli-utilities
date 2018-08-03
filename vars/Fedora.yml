@@ -27,6 +27,7 @@ cli_os_pkgs :
   - mc
   - npm
   - ntop
+  - perf
   - perl
   - perl6
   - perlbrew

@@ -23,6 +23,7 @@ cli_os_pkgs :
   - iftop
   - iotop
   - irssi
+  - linux-perf
   - lynx
   - mc
     # - npm # Also not in WSL Debian?
